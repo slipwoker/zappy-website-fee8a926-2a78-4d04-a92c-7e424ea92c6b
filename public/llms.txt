@@ -1,0 +1,80 @@
+# י.ס שירותים משפטיים — Generative Engine Optimization Map
+
+> Y.S Legal Services is an experienced Israeli legal support firm with over 16 years of expertise, specializing in debt collection consulting, legal deliveries, and auxiliary services for attorneys, governmental bodies, administrative organizations, and businesses. The firm operates across wide geographic regions throughout Israel, positioning itself as a reliable, professional, and seasoned partner in the legal services ecosystem.
+
+---
+
+## Pages
+
+### בית
+https://-fee8a926.zappy5.app
+מחפשים שירותים משפטיים אמינים ומשתלמים? י.ס שירותים משפטיים מציעה ייעוץ בגביית חובות, שליחויות משפטיות וליווי מקצועי לעסקים ולעורכי דין. התקשרו עוד היום לייעוץ ראשוני ללא התחייבות!
+
+### שירותים
+https://-fee8a926.zappy5.app/services
+זקוקים לסיוע נקודתי? סל השירותים שלנו כולל שירותים משפטיים לא צמודים, שליחויות מהירות וליווי בגבייה – מותאם לצרכים שלכם. לחצו לפרטים על המסלולים המשתלמים ביותר!
+
+### אודות
+https://-fee8a926.zappy5.app/about
+מה הופך אותנו לשותף המוביל שלכם? מעל 16 שנות ניסיון בשירותים משפטיים לעסקים, משרדי עורכי דין וגופים ציבוריים. היכנסו לקרוא על הערכים והמקצועיות שמאחורי ההצלחה.
+
+### צור קשר
+https://-fee8a926.zappy5.app/contact
+מוכנים להתחיל? השאירו פרטים לשיחת ייעוץ חינם על שירותים משפטיים בתשלום מראש, גבייה או שליחויות. צוות י.ס כאן כדי לבנות עבורכם פתרון מנצח. מהרו לתפוס את ההזדמנות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-fee8a926.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-fee8a926.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-fee8a926.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-fee8a926.zappy5.app/contact
+- Endpoint: https://-fee8a926.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About י.ס שירותים משפטיים
+Y.S Legal Services is an experienced Israeli legal support firm with over 16 years of expertise, specializing in debt collection consulting, legal deliveries, and auxiliary services for attorneys, governmental bodies, administrative organizations, and businesses. The firm operates across wide geographic regions throughout Israel, positioning itself as a reliable, professional, and seasoned partner in the legal services ecosystem.
+
+## Target Audience
+- עורכי דין, גופים ממשלתיים, גופים מנהלתיים, עסקים הזקוקים לייעוץ גבייה
+- עורכי דין לגבייה
+- גופים ממשלתיים
+- גופים מנהלתיים
+- עסקים הזקוקים לייעוץ גבייה
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-fee8a926.zappy5.app/sitemap.xml
+- Robots: https://-fee8a926.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-fee8a926.zappy5.app/llms-full.txt
