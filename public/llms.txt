@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: services10ys@gmail.com
+- Phone: 053-7677783
+- Phone (tel): tel:0537677783
+- Address: ההגשמה, אשדוד, ישראל
 
 ### Contact form
 - URL: https://example.com/contact
