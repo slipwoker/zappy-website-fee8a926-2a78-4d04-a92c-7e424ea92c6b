@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://ys-legal-services.zappy5.app
 מחפשים שירותים משפטיים אמינים ומשתלמים? י.ס שירותים משפטיים מציעה ייעוץ בגביית חובות, שליחויות משפטיות וליווי מקצועי לעסקים ולעורכי דין. התקשרו עוד היום לייעוץ ראשוני ללא התחייבות!
 
 ### שירותים
-https://example.com/services
+https://ys-legal-services.zappy5.app/services
 זקוקים לסיוע נקודתי? סל השירותים שלנו כולל שירותים משפטיים לא צמודים, שליחויות מהירות וליווי בגבייה – מותאם לצרכים שלכם. לחצו לפרטים על המסלולים המשתלמים ביותר!
 
 ### אודות
-https://example.com/about
+https://ys-legal-services.zappy5.app/about
 מה הופך אותנו לשותף המוביל שלכם? מעל 16 שנות ניסיון בשירותים משפטיים לעסקים, משרדי עורכי דין וגופים ציבוריים. היכנסו לקרוא על הערכים והמקצועיות שמאחורי ההצלחה.
 
 ### צור קשר
-https://example.com/contact
+https://ys-legal-services.zappy5.app/contact
 מוכנים להתחיל? השאירו פרטים לשיחת ייעוץ חינם על שירותים משפטיים בתשלום מראש, גבייה או שליחויות. צוות י.ס כאן כדי לבנות עבורכם פתרון מנצח. מהרו לתפוס את ההזדמנות!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ys-legal-services.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ys-legal-services.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ys-legal-services.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: ההגשמה, אשדוד, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://ys-legal-services.zappy5.app/contact
+- Endpoint: https://ys-legal-services.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://ys-legal-services.zappy5.app/sitemap.xml
+- Robots: https://ys-legal-services.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://ys-legal-services.zappy5.app/llms-full.txt
